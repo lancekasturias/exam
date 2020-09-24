@@ -38,9 +38,9 @@ background-color:#f3f3f3;
 	text-align:right;
 
 }
-.raiod1{
+.inlineb{
 	
-	margin-right:%;
+display:inline-block;
 	
 }
 
@@ -51,6 +51,8 @@ background-color:#f3f3f3;
 }
 
 .submit{
-	width:10%;
-	height:10%;
+	width:5%;
+	height:5%;
+	background-color:#6ba2ce;
+	color:white;
 }
