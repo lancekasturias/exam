@@ -3,12 +3,13 @@
 body{
 background-color:#a9d7e9;
 text-align:center;
-	
-	
+
 }
 
 .form{
 background-color:#f3f3f3;	
+margin:2%;
+	
 	
 }
 .input{
@@ -55,4 +56,5 @@ display:inline-block;
 	height:5%;
 	background-color:#6ba2ce;
 	color:white;
+	margin-bottom:10%;
 }
